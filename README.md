@@ -246,4 +246,4 @@ Les opérations des utilisateurs simulés ne doivent pas polluer la pile Undo de
 ## Auteur
 
 **Alimi LAMIDI**
-Test technique NiyiExpertise — Frontend Senior React 2025
+Test technique NiyiExpertise — Frontend Senior React 2026
