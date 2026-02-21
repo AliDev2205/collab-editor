@@ -55,7 +55,7 @@ CollabEditor est une interface d'éditeur de texte collaboratif temps réel simu
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/TON_USERNAME/collab-editor.git
+git clone https://github.com/AliDev2205/collab-editor.git
 cd collab-editor
 
 # Installer les dépendances
@@ -245,5 +245,5 @@ Les opérations des utilisateurs simulés ne doivent pas polluer la pile Undo de
 
 ## Auteur
 
-**[Ton Nom]**
+**Alimi LAMIDI**
 Test technique NiyiExpertise — Frontend Senior React 2025
